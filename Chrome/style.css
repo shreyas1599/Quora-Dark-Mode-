@@ -1,0 +1,784 @@
+/* Invite others to a Language */
+.InviteModalLink {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+/* svg Icons of page */
+
+.ui_icon_color--gray .icon_svg-fill_as_stroke {
+    fill: white !important;
+}
+
+.InviteModalLink .title {
+    color: white !important;
+}
+
+.InviteModalLink .fake_input {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+/* Answer editor */
+
+.AnswerEditorHeader {
+    background-color: black !important;
+}
+
+.AnswerEditorHeader .user {
+    color: white !important;
+}
+
+.Editor .doc {
+    background-color: black !important;
+}
+/* List of all Languages */
+
+.LanguxagesSettings .language_item:not(:last-child) {
+    border-color: #242424 !important;
+}
+
+.SiteHeader {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.SiteHeader .SiteHeaderNavItem .nav_item_link:hover, .SiteHeader .SiteHeaderNavItem .nav_item_link:active {
+    background-color: #0b0b0b !important;
+}
+
+.SiteHeader .SiteHeaderNavItem .nav_item_link, .SiteHeader .site_header_nav_item .nav_item_link {
+    color: white !important;
+}
+
+.NetworkSwitcher:hover {
+    background-color: #0b0b0b !important;
+}
+
+.NetworkSwitcher {
+    border: none !important;
+}
+
+.LanguageList .switcher_title, .NetworkSwitcherContents .switcher_title {
+    color: white !important;
+    background-color: black !important;
+    broder: none !important;
+}
+
+.LanguageList .network_item, .NetworkSwitcherContents .network_item {
+    background-color: black !important;
+    border: none !important;
+}
+
+.LanguageList .language_label, .NetworkSwitcherContents .language_label {
+    color: white !important;
+}
+
+.LanguageList .AboutListItem .main_text a, .NetworkSwitcherContents .AboutListItem .main_text a {
+    color: white !important;
+}
+
+.LanguageList .SiloSwitcherNavLinks .nav_list_link, .NetworkSwitcherContents .SiloSwitcherNavLinks .nav_list_link {
+    color: white !important;
+}
+
+.LanguageList .SiloSwitcherNavLinks, .NetworkSwitcherContents .SiloSwitcherNavLinks {
+    background-color: black !important;
+    border: none !important;
+}
+
+.LanguageList .SiloSwitcherNavLinks .silo_nav_list_item:first-child, .NetworkSwitcherContents .SiloSwitcherNavLinks .silo_nav_list_item:first-child {
+    border: none !important;
+}
+
+.switcher_item_with_image.is_active {
+    background-color: black !important;
+}
+
+.grid_page {
+    background-color: black !important;
+}
+
+/* Adding a new question */
+
+.Modal .tabs_header {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.AskQuestionStep .selector_input, .TribeAddHyperLinkModal .selector_input, .QuoraShareModal .selector_input {
+    background-color: black !important;
+    color: white !important;
+}
+
+.AskQuestionStep .QuestionSourceEdit, .TribeAddHyperLinkModal .QuestionSourceEdit, .QuoraShareModal .QuestionSourceEdit {
+    border-color: #242424 !important;
+}
+
+.QuestionSourceEdit .source_editor input {
+    background-color: black !important;
+    color: white !important;
+}
+
+.Modal .tabs_header .tab:hover {
+    background-color: #0f0f0f !important;
+}
+
+.AskQuestionStep .url_input_box, .TribeAddHyperLinkModal .url_input_box, .QuoraShareModal .url_input_box {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+button, input, optgroup, select, textarea {
+    color: white !important;
+    background-color: black !important;
+}
+
+.AskQuestionStep .url_input, .TribeAddHyperLinkModal .url_input, .QuoraShareModal .url_input {
+    background-color: black !important;
+    border-color: #242424 !important!;
+}
+
+/* Profile icon */
+
+.u-bg--gray-ultralight {
+    background-color: black !important;
+}
+
+/* Editing Credentials List */
+
+.credential_list_item {
+    border-color: #242424 !important;
+}
+
+.AddCredentialDropdown:hover {
+    background-color: #0c0c0c !important;
+}
+
+.u-border-all {
+    border-color: #242424 !important;
+}
+
+/* Editing Profile bio */
+
+.editor_toolbar {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.editor_toolbar .modifier {
+    border-color: #242424 !important;
+}
+
+.Editor {
+    border-color: #242424 !important;
+}
+
+
+
+
+/* Search bar */
+
+.SiteHeader.new_header .ask_bar .LookupBarSelector .selector_input {
+    border-color: #242424 important;
+    color: white !important;
+}
+
+.LookupBarSelector .lookup_bar_results_wrapper {
+    border-color: #242424 !important;
+}
+
+.Selector .SelectorResults {
+    color: white !important;
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.SiteHeader.new_header .selector_result.ask_new_question .AskQuestionButton {
+    background-color: black !important;
+}
+
+.Selector .SelectorResults .selector_result {
+    border-color: #242424 !important;
+}
+
+.Selector .SelectorResults .selector_result.selector_highlighted {
+    background-color: #666 !important;
+    color: white !important;
+}
+
+/* Notifications */
+
+.SiteHeader .SiteHeaderNavItem .nav_item_link:hover {
+    background-color: black !important;
+}
+
+.SiteHeader .SiteHeaderNavItem .nav_item_link {
+    background-color: black !important;
+}
+
+.Notif {
+    color: white !important;
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.Notif .notif_item .user, .Notif .notif_item .topic_name {
+    color: white !important;
+}
+
+.hover_menu_title {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.hover_menu .hover_menu_contents {
+    border-color: #242424 !important;
+}
+
+.SiteHeader .NotifsHoverMenuContents .dropdown {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.ui_section_footer {
+    background-color: black !important;
+    color: white !important;
+}
+
+/* Spaces */
+
+.ContributorStatusListItem {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.ui_button--FlatStyle--blue, .ui_button--FlatStyle--gray, .ui_button--StackedStyle {
+    color: white !important;
+}
+
+.u-border-bottom {
+    border-color: #242424 !important
+}
+
+/* New spaces to follow */
+
+.CarouselBundle .container {
+    background-color: black !important;
+}
+
+.ui_button--StackedStyle .ui_button_count {
+    background-color: black !important;
+}
+
+/* Spaces Page */
+
+.u-bg--white {
+    background-color: black !important;
+}
+
+.u-border--desktop-feed-card {
+    border-color: #242424 !important;
+}
+
+.u-border-top {
+    border-color: #242424 !important;
+}
+
+.web_page .ui_page_tab {
+    background-color: black !important;
+    color: white !important;
+}
+
+.TribePageNavBar {
+    background-color: black !important;
+}
+
+.ui_button--PillStyle--gray {
+    background-color: #161616 !important;
+    color: white !important;
+}
+
+.u-text--gray-dark {
+    color: white !important;
+}
+
+.web_page .ui_headers_base.has_underline {
+    border-color: #242424 !important;
+}
+
+/* Profile Page */
+
+.ProfileDescription .inline_editor_edit, .ProfileDescription .inline_editor_buttons {
+    background-color: black !important;
+    color; white !important;
+}
+
+.ProfileNameAndSig h1 {
+    color: white !important;
+}
+
+.threaded_comments {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.feed_item {
+    border-color: #242424 !important;
+}
+
+.TribeNameLink {
+    color: white !important;
+}
+
+.TopicPreviewBioAnswers .topic_name {
+    color: white !important;
+}
+
+/* Partners */
+
+.EarningsCard {
+    background-color: black !important;
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.Earnings .earnings_section .total_earnings {
+    border-color: #242424 !important;
+}
+
+.grid_page h3 {
+    border-color: #242424 !important;
+}
+
+.DailyAchievements {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.DailyAchievements .card_footer {
+    border-color: #242424 !important;
+}
+
+.PartnersPromptsTopicsOnlyPreview {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.QuestionValueInsightsSidebar .sidebar_header {
+    border-color: #242424 !important;
+}
+
+.QuestionValueInsightsSidebar .sidebar {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.QuestionValueInsightsSidebar .sidebar .card_footer {
+    border-color: #242424 !important;
+}
+
+.PartnersLeaderboard .leaderboard .earner {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .question_link, .QuestionValueInsightsMain .partners_question_list_item .question_link, .QuestionValueInsightsModal .partners_question_list_item .question_link, .SentNotifWrapper .partners_question_list_item .question_link {
+    color: white !important;
+}
+
+.PartnersQuestionList .partners_question_list_item, .QuestionValueInsightsMain .partners_question_list_item, .QuestionValueInsightsModal .partners_question_list_item, .SentNotifWrapper .partners_question_list_item {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .topic_row, .QuestionValueInsightsMain .partners_question_list_item .topic_row, .QuestionValueInsightsModal .partners_question_list_item .topic_row, .SentNotifWrapper .partners_question_list_item .topic_row {
+    border-color: #242424 !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .a2a_section, .QuestionValueInsightsMain .partners_question_list_item .a2a_section, .QuestionValueInsightsModal .partners_question_list_item .a2a_section, .SentNotifWrapper .partners_question_list_item .a2a_section {
+    border-color: #242424 !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .meta_items, .QuestionValueInsightsMain .partners_question_list_item .meta_items, .QuestionValueInsightsModal .partners_question_list_item .meta_items, .SentNotifWrapper .partners_question_list_item .meta_items {
+    border-color: #242424 !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .meta_items .info, .QuestionValueInsightsMain .partners_question_list_item .meta_items .info, .QuestionValueInsightsModal .partners_question_list_item .meta_items .info, .SentNotifWrapper .partners_question_list_item .meta_items .info {
+    color: white !important;
+}
+
+.PartnersQuestionList .partners_question_list_item .a2a_section .AskToAnswerModalLink.outstanding, .QuestionValueInsightsMain .partners_question_list_item .a2a_section .AskToAnswerModalLink.outstanding, .QuestionValueInsightsModal .partners_question_list_item .a2a_section .AskToAnswerModalLink.outstanding, .SentNotifWrapper .partners_question_list_item .a2a_section .AskToAnswerModalLink.outstanding {
+    color: white !important;
+}
+
+.topic_pill {
+    background-color: #121212 !important;
+}
+
+.QuestionTopicHorizontalList .view_more_topics_link {
+    background-color: #121212 !important;
+}
+
+/* A2A requests list */
+
+.Modal .modal_header, .Modal .modal_content, .Modal .modal_content .modal_body {
+    background-color: black !important;
+}
+
+.WantedAnswerSuggestions .search_balance .WantedAnswerSelector .selector_input, .AdditionalA2ASearchResultsModal .search_balance .WantedAnswerSelector .selector_input {
+    background-color: black !important;
+    color: white !important;
+}
+
+input[type=text], input[type=email], input[type=number], input[type=password], textarea, .fake_editor, .qtext_editor_content {
+    border-color: #242424 !important;
+}
+
+.request_answers_list_item .user {
+    color: white !important;
+}
+
+.Modal.A2aModalStep .a2a_question_text a {
+    color: white !important;
+}
+
+.Modal .modal_header .modal_title {
+    color: white !important;
+}
+
+.ModalNavItem:hover {
+    background-color: black !important;
+}
+
+.Modal .modal_footer {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.A2aModalStep .title {
+    border-color: #242424 !important;
+}
+
+-webkit-scrollbar-track-piece  {
+    background-color: black !important;
+}
+
+-webkit-scrollbar-thumb:vertical {
+    background-color: black !important;
+}
+
+/* Invite friends to partner program */
+
+.PaidContributorInvite .invite_link {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+/* About the Program */
+
+.PaidContributorSummary .JoinProgramForm {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+/* Question Value Insights */
+
+.QuestionValueInsightsMain .InsightsOverviewWrapper {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.QuestionValueInsightsMain .insights_label {
+    color: white !important;
+}
+
+/* Blog Page */
+
+.ui_content_title--large {
+    color: white !important;
+}
+
+.BlogMain .BoardItem .author .user, .BlogItemMain .BoardItem .author .user, .BlogMain .BoardStandaloneItem .author .user, .BlogItemMain .BoardStandaloneItem .author .user {
+    color: white !important;
+}
+
+.BlogHeader .BoardName {
+    color: white !important;
+}
+
+.hover_menu .hover_menu_contents {
+    background-color: black !important;
+}
+
+.hover_menu .menu_list_item a:hover, .hover_menu .menu_list_item .completed:hover {
+    background-color: #0f0f0f !important;
+}
+
+.hover_menu .menu_list_items>*:not(:last-child) {
+    border-color: #242424 !important;
+}
+
+/* New people to follow */
+.NewCarousel .NewCarouselItem .item_text .name, .NewCarousel .NewCarouselItem .item_text .name a {
+    color: white !important;
+}
+
+.web_page .ui_horizontal_scroll_zone .left, .web_page .ui_horizontal_scroll_zone .right {
+    background-color: black !important;
+    outline-color: black !important;
+    border-color: #242424 !important;
+}
+
+.web_page .ui_horizontal_scroll_zone .ui_horizontal_card {
+    border-color: #242424 !important;
+}
+
+/* People who upvoted */
+
+.Modal .modal_header {
+    border-color: #242424 !important;
+}
+
+.VoterListModal .modal_content .ExpandedVoterListItem {
+    border-color: #242424 !important;
+}
+
+.ExpandedVoterListItem .author_info .feed_item_answer_user a.user {
+    color: white !important;
+}
+
+body {
+    color: white !important;
+    background: black !important;
+}
+
+/* Negative feedback */
+
+.NegativeFeedback .reason_options .option {
+    border-color: #242424 !important;
+}
+
+.NegativeFeedback .reason_options {
+    border-color: #242424 !important;
+}
+
+/* Question prompt */
+
+.feed_card_on .AddQuestionPrompt {
+    background-color: black !important;
+    border: none !important;
+}
+
+.feed_card_on .Bundle .singleton_bundle .feed_item {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.AnswerCompact .expanded_answer {
+    border-color: #242424 !important;
+}
+
+.ContentHeader .feed_item_answer_user .user, .ContentHeader .feed_item_answer_user .anon_user {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.ui_content_title--medium {
+    color: white !important;
+}
+
+.QuoraShareFeed .author_info .name_credential .user {
+    color: white !important;
+}
+
+.AmaSelfServeQuestionsPrompt {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.icon_action_bar.sticky {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.ui_badge_group_wrapper .ui_avatar .ui_avatar_photo {
+    border-color: black !important;
+}
+
+.AnswerCompact .expanded_answer {
+    border-color: #242424 !important;
+}
+
+.hover_menu .ObjectCard {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.ui_story_card {
+    background-color: black !important;
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.feed_card_on .Bundle .full_bundle {
+    background-color: black !important;
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.Bundle .section_header {
+    border-color: #242424 !important;
+}
+
+.comment_wrapper .show_child_link_wrapper .show_child_link {
+    background-color: black !important;
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.comments_preview_toggle .comment_snippet.with_more_comments {
+    border-color: #242424 !important;
+}
+
+.comment_wrapper .comment .comment_contents .author_name .user, .comment_wrapper .comment .comment_contents .author_name .anon_user {
+    color: white !important;
+}
+
+.threaded_comments.full_width_comments {
+    background-color: black !important;
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.js-wf-loaded .threaded_comments .reply_to_comment .editor_wrapper .Comment.Editor, .js-wf-loaded .threaded_comments .add_root_comment .editor_wrapper .Comment.Editor, .js-wf-loaded .threaded_comments .threaded_inline_editor .editor_wrapper .Comment.Editor, .amp-page .threaded_comments .reply_to_comment .editor_wrapper .Comment.Editor, .amp-page .threaded_comments .add_root_comment .editor_wrapper .Comment.Editor, .amp-page .threaded_comments .threaded_inline_editor .editor_wrapper .Comment.Editor {
+    background-color: black !important;
+    border-color: #242424 !important;
+    color: white !important;
+}
+
+.CarouselBundle .FeedStory {
+    background-color: black !important;
+    color: white !important;
+}
+
+.SuggestedTopicsBundle .CarouselItem .item_text .name, .SuggestedTribesBundle .CarouselItem .item_text .name, .SuggestedTopicsBundle .CarouselItem .item_text .name a, .SuggestedTribesBundle .CarouselItem .item_text .name a {
+    color: white !important;
+}
+
+.SuggestedTopicsBundle .CarouselItem .item_text .sig, .SuggestedTribesBundle .CarouselItem .item_text .sig {
+    color: white !important;
+}
+
+.AnswerCompact .truncated_answer .answer_content_without_image {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.AnswerCompact .truncated_answer .metadata .name_credential .user {
+    color: white !important;
+}
+
+.hover_menu .ObjectCard .ObjectCard-footer {
+    border-color: #242424 !important;
+}
+
+.name_credential {
+    color: white !important;
+}
+
+.ui_content_title--small {
+    color: white !important;
+}
+
+.u-flex:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.HyperLinkPreview .hyperlink_info .hyperlink_publisher {
+    color: white !important;
+}
+
+.HyperLinkPreview .hyperlink_description {
+    color: white !important;
+}
+
+.HyperLinkPreviewCompact .link_content_with_image {
+    background-color: black !important;
+}
+
+.SuggestedTopicsBundle .CarouselItem, .SuggestedTribesBundle .CarouselItem {
+    border-color: #242424 !important;
+}
+
+.comments_preview_toggle:hover, .comments_preview_toggle {
+    background-color: black !important;
+    color: white !important;
+}
+
+.QuoraShareFeed .author_info .name_credential .user {
+    color: white !important;
+}
+
+.LoadingDots.regular {
+    background-color: black !important;
+}
+
+.js-wf-loaded .HyperLinkPreview .hyperlink_title, .amp-page .HyperLinkPreview .hyperlink_title {
+    color: white !important;
+}
+
+.CredibilityFacts .bio {
+    border: none !important;
+}
+
+.js-wf-loaded .hover_menu .BetterUserHoverMenuContents .ObjectCard-header .header_wrapper .user {
+    color: white !important;
+}
+
+.AboutListItem .main_text {
+    color: #d8d8d8 !important;
+}
+
+/* Answer questions page */
+
+.EditableList .nav_item_selected a, .EditableList .StaticListItem>.selected {
+    background-color: #666 !important;
+    color: white !important;
+}
+
+.grid_page h3 {
+    color: white !important;
+}
+
+.ui_headers_base {
+    color: white !important;
+}
+
+.u-text--gray {
+    color: white !important;
+}
+
+.WriteMain .WriteMultifeed .section_header .header_text .header_text_main, .WriteMain .WriteMultifeed .section_header .header_text .header_text_main .user {
+    color: white !important;
+}
+
+.Bundle .section_header .header_text .header_text_main, .Bundle .section_header .header_text .TopicNameSpan, .Bundle .section_header .header_text .header_text_main .user, .Bundle .section_header .header_text a.user {
+    color: white !important;
+}
+
+.feed_card_on .QuestionListItem .feed_item, .feed_card_on .AnswerListItem .feed_item, .feed_card_on .BoardListItem .feed_item, .feed_card_on .questions_feed .feed_item, .feed_card_on .RecentlyAskedQuestions .feed_item, .feed_card_on .HipriHumanA2ARequestsList .feed_item, .feed_card_on .LowpriHumanA2ARequestsList .feed_item, .feed_card_on .WritingListMain .WritingList.PagedList .feed_item, .feed_card_on .TribeItem .feed_item, .feed_card_on .TribePostItem .feed_item, .feed_card_on .QuoraShareFeed .feed_item, .feed_card_on .LeaderboardMain .feed_item, .feed_card_on .TopicManagePageMain .feed_item, .feed_card_on .TopicAllQuestionsPageMain .feed_item, .feed_card_on .TopicOrganizePageMain .feed_item, .feed_card_on .TopicLogPageMain .feed_item, .feed_card_on .TopicFollowersPageMain .feed_item, .feed_card_on .QuestionListItem.feed_item, .feed_card_on .AnswerListItem.feed_item, .feed_card_on .BoardListItem.feed_item, .feed_card_on .questions_feed.feed_item, .feed_card_on .RecentlyAskedQuestions.feed_item, .feed_card_on .HipriHumanA2ARequestsList.feed_item, .feed_card_on .LowpriHumanA2ARequestsList.feed_item, .feed_card_on .WritingListMain .WritingList.PagedList.feed_item, .feed_card_on .TribeItem.feed_item, .feed_card_on .TribePostItem.feed_item, .feed_card_on .QuoraShareFeed.feed_item, .feed_card_on .LeaderboardMain.feed_item, .feed_card_on .TopicManagePageMain.feed_item, .feed_card_on .TopicAllQuestionsPageMain.feed_item, .feed_card_on .TopicOrganizePageMain.feed_item, .feed_card_on .TopicLogPageMain.feed_item, .feed_card_on .TopicFollowersPageMain.feed_item {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
+
+.write_page_header {
+    color: white !important;
+    border-color: #242424 !important;
+}
+
+.feed_card_on .BoardDraftsAndDraftsList .draft_item {
+    background-color: black !important;
+    border-color: #242424 !important;
+}
