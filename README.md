@@ -1,7 +1,7 @@
 # Quora-Dark-Mode-
 Dark mode Chrome and Safari extension for Quora
 
-<b>For Chrome<b>:
+<b>For Chrome</b>:
 
 Dowload only the files listed under ```Chrome``` 
 Go to: 
@@ -11,7 +11,7 @@ Chrome > chrome://extensions
 
 and click on ```Load Unpacked``` and select the ```Chrome``` directory where ever it is stored on your computer.
 
-<b>For Safari<b>:
+<b>For Safari</b>:
 
 Download and run on Xcode(if you have it). To allow extensions without a Development Ceritificate to run on Safari, go to:
 ```
